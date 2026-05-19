@@ -25,7 +25,7 @@ topicButtons.forEach(function(topic)
             else
             {
                 moreContent.style.display = "none";
-                button.textContent = "Read more...";
+                button.textContent = "Read more";
             }
         });
     }
